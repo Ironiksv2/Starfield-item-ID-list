@@ -1,0 +1,1597 @@
+End Game
+
+additem 00055905
+additem 00055905
+additem 0001D1DE
+additem 0001D1DE
+additem 00003A77
+additem 00227CA1
+additem 0016D3D1
+additem 002F4B39
+additem 001F22BC
+additem 0022B8F6
+additem 00225FC9
+additem 001773BD
+additem 0016640F
+additem 0025780B
+additem 00257806
+additem 000EF9B2
+additem 000EF9B1
+additem 0021A86B
+additem 00248C0E
+additem 003E3D4F
+additem 00214769
+additem 00257807
+additem 0010A25D
+additem 0021C77F
+additem 001CBA4D
+additem 002D7346
+additem 002D7365
+additem 001CBA49
+additem 001CBA4A
+additem 0021C77E
+additem 001CBA4E
+additem 001CBA52
+additem 0012E187
+additem 00166403
+
+Ammo
+
+additem 00005DEC 100
+additem 0000557D 100
+additem 00005570 100
+additem 0000557B 100
+additem 0000557B 100
+additem 0000557C 100
+additem 00005588 100
+additem 00005585 100
+additem 000057D9 100
+additem 000788D6 100
+additem 000057DF 100
+additem 00005586 100
+additem 00005586 100
+additem 0000557C 100
+additem 0000557E 100
+additem 00005575 100
+additem 00005576 100
+additem 00005569 100
+additem 000057E1 100
+additem 00005577 100
+additem 00005579 100
+additem 0000558E 100
+additem 0004BA37 100
+additem 0000557A 100
+additem 0000558A 100
+additem 0000556E 100
+additem 00005568 100
+additem 0000557F 100
+additem 0027C4A1 100
+additem 00005580 100
+additem 00005587 100
+additem 00005572 100
+additem 00005574 100
+additem 00005573 100
+additem 0000558C 100
+additem 000028DF 100
+additem 0000556A 100
+additem 0000556F 100
+additem 00005DED 100
+additem 00005578 100
+additem 0000556D 100
+additem 0000556B 100
+additem 00005589 100
+additem 0000558B 100
+additem 00005DEE 100
+additem 00005DEF 100
+additem 00005591 100
+additem 000057DD 100
+additem 000055B1 100
+additem 000055CD 100
+additem 000055A9 100
+additem 000055AB 100
+additem 000055B8 100
+additem 000055B2 100
+additem 000055A8 100
+additem 000055AF 100
+additem 000055B3 100
+additem 000055AA 100
+additem 0029F405 100
+additem 0029F40D 100
+additem 0000559E 100
+additem 000055BA 100
+additem 0000559B 100
+additem 000055B0 100
+additem 0029F3FC 100
+additem 000055AE 100
+additem 000777FD 100
+additem 000055A7 100
+additem 0029F400 100
+additem 00122EB8 100
+additem 000055A6 100
+additem 000055CC 100
+additem 000055AD 100
+additem 000055CE 100
+additem 00202F5A 100
+additem 000055B9 100
+additem 000055AC 100
+additem 000055CB 100
+
+
+Starfield Item	Item ID
+Credits	0000000F
+Digipicks	0000000A
+Ship Spare Parts	0003FB19
+Trauma Pack	0029A847
+Heart+	0029CAD9
+Chameleon armor mod (blends in with environment when crouched)	001336C1
+Extended Magazine weapon mod (doubles magazine capacity)	000FFA3B
+Advanced weapon mod (level 4 weapon)	0028F444
+Superior armor mod (level 5 armor)	0003AF7D
+Adhesive	000055B1
+Solvent	000055CE
+Sealant	000055CC
+Lubricant	000055BA
+Fiber	000055AF
+Caelumite	000788D6
+menu image of a digipick
+Image credit: Eurogamer/Bethesda Softworks
+Skill item IDs in Starfield
+To find a specific Skill quickly, you can use the search bar above the table, or click the arrows to sort the name order.
+
+Here's a list of the Skill item IDs in Starfield:
+
+Filter table
+Skill	Item ID
+Boxing (Physical)	002C59DF
+Fitness (Physical)	002CE2DD
+Stealth (Physical)	002CFCB2
+Weight Lifting (Physical)	002C59D9
+Wellness (Physical)	002CE2E1
+Energy Weapon Dissipation (Physical)	002C59E2
+Environmental Conditioning (Physical)	0028AE17
+Gymnastics (Physical)	0028AE29
+Nutrition (Physical)	002CFCAD
+Pain Tolerance (Physical)	002CFCAE
+Cellular Regeneration (Physical)	0028AE14
+Decontamination (Physical)	002CE2A0
+Martial Arts (Physical)	002C5554
+Concealment (Physical)	002C555E
+Nuerostrikes (Physical)	002C53B4
+Rejuvenation (Physical)	0028AE13
+Commerce (Social)	002C5A8E
+Gastronomy (Social)	002C5A94
+Persuasion (Social)	0022EC82
+Scavenging (Social)	0028B853
+Theft (Social)	002C555B
+Deception (Social)	002CFCAF
+Diplomacy (Social)	002C59E1
+Intimidation (Social)	002C59DE
+Isolation (Social)	002C53AE
+Negotiation (Social)	002C555F
+Instigation (Social)	002C555D
+Leadership (Social)	002C890D
+Outpost Management (Social)	0023826F
+Manipulation (Social)	002C5555
+Ship Command (Social)	002C53B3
+Xenosociology (Social)	002C53B0
+Ballistics (Combat)	002CFCAB
+Dueling (Combat)	002CFCB0
+Lasers (Combat)	002C59DD
+Pistol Certification (Combat)	002080FF
+Shotgun Certification (Combat)	0027DF97
+Demolitions (Combat)	002C5556
+Heavy Weapons Certification (Combat)	00147E38
+Incapacitation (Combat)	0027DF96
+Particle Beams (Combat)	0027BAFD
+Rifle Certification (Combat)	002CE2E0
+Marksmanship (Combat)	002C890B
+Rapid Reloading (Combat)	002C555A
+Sniper Cerrtification (Combat)	002C53B1
+Targeting (Combat)	002C59DA
+Armor Penetration (Combat)	0027DF94
+Crippling (Combat)	0027CBBA
+Sharpshooting (Combat)	002C53AF
+Astrodynamics (Science)	002C5560
+Geology (Science)	002CE29F
+Medicine (Science)	002CE2DF
+Research Methods (Science)	002C555C
+Surveying (Science)	0027CBC1
+Botany (Science)	002C5557
+Scanning (Science)	002CFCB1
+Spacesuit Design (Science)	0027CBC3
+Weapon Engineering (Science)	002C890C
+Zoology (Science)	002C5552
+Astrophysics (Science)	0027CBBB
+Chemistry (Science)	002CE2C0
+Outpost Engineering (Science)	002C59E0
+Aneutronic Fusion (Science)	002C2C5A
+Planetary Habitation (Science)	0027CBC2
+Special Projects (Science)	0004CE2D
+Ballistic Weapon Systems (Tech)	002CE2C2
+Boost Pack Training (Tech)	00146C2C
+Piloting (Tech)	002CFCAC
+Security (Tech)	002CE2E2
+Targeting Control Systems (Tech)	002C5559
+Energy Weapon Systems (Tech)	002C59DB
+Engine Systems (Tech)	002CE2DE
+Payloads (Tech)	00143B6B
+Shield Systems (Tech)	002C2C59
+Missile Weapon Systems (Tech)	002C5558
+Particle Beam Weapon Systems (Tech)	002C2C5B
+Robotics (Tech)	002C5553
+Starship Design (Tech)	002C59DC
+Starship Engineering (Tech)	002AC953
+Automated Weapon Systems (Tech)	0027B9ED
+Boost Assault Training (Tech)	0008C3EE
+EM Weapon Systems (Tech)	002C53B2
+The tech skill tree menu.
+Image credit: Bethesda Softworks
+Trait item IDs in Starfield
+Here's a list of the Trait item IDs in Starfield:
+
+Filter table
+Trait	Item ID
+Alien DNA	00227FDA
+Dream Home	00227FDF
+Empath	00227FD6
+Extrovert	00227FD7
+Freestar Collective Settler	00227FD5
+Hero Worshipped	00227FD9
+Introvert	00227FD8
+Kid Stuff	00227FDE
+Neon Street Rat	00227FD3
+Raised Enlightened	00227FD2
+Raised Universal	00227FD1
+Serpent’s Embrace	00227FD0
+Spaced	00227FE2
+Taskmaster	00227FE0
+Terra Firma	00227FE1
+United Colonies Native	00227FD4
+Wanted	00227FDD
+
+Image credit: Bethesda/Eurogamer
+Background item IDs in Starfield
+Here's a list of the Background item IDs in Starfield:
+
+Filter table
+Background	Item ID
+Beast Hunter	0022EC76
+Bouncer	0022EC81
+Bounty Hunter	0022EC80
+Chef	0022EC7F
+Combat Medic	0022EC7E
+Cyber Runner	0022EC7D
+Cyberneticist	0022EC7C
+Diplomat	0022EC7B
+Explorer	0022EC79
+File Not Found	002DFD1A
+Gangster	0022EC78
+Homesteader	0022EC77
+Industrialist	0022EC7A
+Long Hauler	0022EC75
+Pilgrim	0022EC73
+Professor	0022EC72
+Ronin	0022EC74
+Sculptor	0022EC71
+Soldier	0022EC70
+Space Scoundrel	0022EC6F
+Xenobiologist	0022EC6E
+
+Image credit: Bethesda/Eurogamer
+Skill Book item IDs in Starfield
+Here's a list of the item IDs for all the Skill Books we've found so far:
+
+Filter table
+Skill Book	Item ID
+Colonization Guide 01	002009E3
+Colonization Guide 02	002009E2
+Colonization Guide 03	002009E1
+Colonization Guide 04	002009E0
+Colonization Guide 05	002009DF
+Colonization Guide 06	002009DE
+Colonization Guide 07	002009DD
+Colonization Guide 08	002009DC
+Colonization Guide 09	002009DB
+Colonization Guide 10	002009DA
+CombaTech Catalog 01	00212940
+CombaTech Catalog 02	0021293E
+CombaTech Catalog 03	0021293D
+CombaTech Catalog 04	0021293C
+CombaTech Catalog 05	0021293B
+Constellation Guide 01	00208E91
+Constellation Guide 02	00208E90
+Constellation Guide 03	00208E8F
+Constellation Guide 04	00208E8E
+Constellation Guide 05	00208E8D
+Freestar Captains Log 01	00201BD7
+Freestar Captains Log 02	00201BD6
+Freestar Captains Log 03	00201BD5
+Freestar Captains Log 04	00201BD4
+Freestar Captains Log 05	00201BD3
+GRUNT Issue 01	0021D05A
+GRUNT Issue 02	0021B050
+GRUNT Issue 03	0021B04F
+GRUNT Issue 04	0021B04E
+GRUNT Issue 05	0021B04D
+GRUNT Issue 06	0021B04C
+GRUNT Issue 07	0021B04B
+GRUNT Issue 08	0021B04A
+GRUNT Issue 09	0021B049
+GRUNT Issue 10	0021B048
+Gunslinger's Guide 01	0020BB30
+Gunslinger's Guide 02	0020BB2F
+Gunslinger's Guide 03	0020BB2E
+Gunslinger's Guide 04	0020BB2D
+Gunslinger's Guide 05	0020BB2C
+Mining Monthly Issue 01	0020B4B5
+Mining Monthly Issue 02	0020B4B4
+Mining Monthly Issue 03	0020B4B3
+Mining Monthly Issue 04	0020B4B2
+Mining Monthly Issue 05	0020B4B1
+Mining Monthly Issue 06	0020B4B0
+Mining Monthly Issue 07	0020B4AF
+Mining Monthly Issue 08	0020B4AE
+Mining Monthly Issue 09	0020B4AD
+Mining Monthly Issue 10	0020B4AC
+Neon Nights 01	00200A88
+Neon Nights 02	00200A87
+Neon Nights 03	00200A86
+Neon Nights 04	00200A85
+Neon Nights 05	00200A84
+Nova Galactic Manual 01	002009B6
+Nova Galactic Manual 02	002009B5
+Nova Galactic Manual 03	002009B4
+Nova Galactic Manual 04	002009B3
+Nova Galactic Manual 05	002009B2
+Nova Galactic Manual 06	002009B1
+Nova Galactic Manual 08	002009AF
+Nova Galactic Manual 09	002009AE
+Nova Galactic Manual 10	002009AD
+Peak Performance 01	00202D9E
+Peak Performance 02	00202D9D
+Peak Performance 03	00202D9C
+Peak Performance 04	00202D9B
+Peak Performance 05	00202D9A
+The New Atlantian 01	001FF726
+The New Atlantian 02	001FF725
+The New Atlantian 03	001FF724
+The New Atlantian 04	001FF723
+The New Atlantian 05	001FF722
+Trackers Primer 01	0020909B
+Trackers Primer 02	0020909A
+Trackers Primer 03	00209099
+Trackers Primer 04	00209098
+Trackers Primer 05	00209097
+UC Defense Manual 01	00209FBA
+UC Defense Manual 02	00209FB9
+UC Defense Manual 03	00209FB8
+UC Defense Manual 04	00209FB7
+UC Defense Manual 05	00209FB6
+Vanguard Space Tactics 01	002009D8
+Vanguard Space Tactics 02	002009D7
+Vanguard Space Tactics 03	002009D6
+Vanguard Space Tactics 04	002009D5
+Vanguard Space Tactics 05	002009D4
+Va'ruun Scripture 01	0020A924
+Va'ruun Scripture 02	0020A923
+Va'ruun Scripture 03	0020A922
+Va'ruun Scripture 04	0020A921
+Va'ruun Scripture 05	0020A920
+Va'ruun Scripture 06	0020A91F
+Va'ruun Scripture 07	0020A91E
+Va'ruun Scripture 08	0020A91D
+Va'ruun Scripture 09	0020A91C
+Va'ruun Scripture 10	0020A91B
+starfield steam promo art character between two canyon walls
+Image credit: Bethesda
+Weapon item IDs in Starfield
+To find a specific weapon quickly, you can use the search bar above the table, or click the arrows to sort the name order.
+
+Here's a list of the weapon item IDs in Starfield discovered so far:
+
+Filter table
+Weapon	Item ID
+AA-99	002BF65B
+Arc Welder	0026D965
+AutoRivet	0026D964
+Beowulf	0004716C
+Big Bang	0026D963
+Breach	000547A3
+Bridger	0026D96A
+Coachman	0026D96B
+Cutter	00016758
+Drum Beat	0018DE2C
+Discarded Sidestar	002F413A
+Ecliptic Pistol	0026D96E
+Eon	000476C4
+Equinox	0001BC4F
+Frag Grenade	000115EF
+Grendel	00028A02
+Hard Target	00546CC
+Kodama	00253A16
+Kraken	0021FEB4
+Lawgiver	0002D7F4
+Maelstrom	002984DF
+Mag Shear	0002EB3C
+MagPulse	00023606
+MagShot	0002EB42
+MagSniper	0002EB45
+MagStorm	0026035E
+Microgun	000546CD
+Novablast Disputor	0026D968
+Novalight	0026D967
+Old Earth Assault Rifle	0026ED2A
+Old Earth Hunting Rifle	0021BBCD
+Old Earth Shotgun	00278F74
+Orion	002773C8
+Osmium Dagger	0026D966
+Pacifier	002953F8
+Rattler	00040826
+Razorback	00000FD6
+Regulator	0002CB5F
+Rescue Axe	0004F760
+Shotty	0026D960
+Sidestar	0026D95D
+Solstice	0026D961
+Tombstone	0002EB36
+Urban Eagle	0026D96D
+Va'Ruun Inflictor	0026D8A0
+VaRuun Painblade	0026D8A2
+Va'Ruun Starshard	0026D8A4
+XM-2311	0024561C
+menu view of an em weapon
+Image credit: Eurogamer/Betthesda Softworks
+Unique weapon item IDs in Starfield
+To find a specific unique weapon quickly, you can use the search bar above the table, or click the arrows to sort the name order.
+
+Here's a list of the unique weapon item IDs in Starfield discovered so far:
+
+Filter table
+Legendary weapon	Item ID
+Revenant	00070D40
+Fiscal Quarter	000019F5
+Sir Livingstone's Pistol	001F27F5
+Ember	002F99FF
+Deadeye	001BBF2A
+Justifier	001BAA3C
+Wakizashi	0026D8A1
+Deadeye	001BBF2A
+Justifier	001BAA3C
+Street Sweeper	002F3B1A
+Unmitigated Violence	0011381D
+Fortune's Glory	00327627
+Gallow's Reach	00327615
+Marksman's A-99	002F99FE
+Desperation	000EC2F1
+The First Shot	002E1929
+Hunterwulf	002E3E83
+Riot Shotgun	00162CF8
+Rapidshot	00162CFA
+Shattered Shock	000EC2F9
+Power Beat	0022A8E1
+Radburn	00207711
+Brawler's Equinox	000EC310
+Acid Rain	002E3E85
+The Buzzcut	0020772C
+The Last Breath	0022A8E2
+Terror Inflictor	0022A90C
+Reflection	0022A90D
+Vampire's Gft	002FAC66
+Head Ranger	002FAD3F
+Vampire's Sidearm	00207739
+Pirate Legend	002FAC64
+Mind Tear	002AC049
+Trickshot	001AC6B1
+Avatar	001AC6B4
+Poisonstorm	001AC6B8
+N67 Smartgun	001AC6BB
+The Spacer	001AC6C0
+Amped-Up Orion	001AC6CC
+Brute Force	001AC6E0
+The Cursed	001AC6E7
+The Zapper	002D7913
+Elegance	002E0725
+Reckless Bombardment	002E0727
+Fury	002E0729
+Speechless Fire	002E0731
+Boom Boom	002E0735
+Ace Sidearm	002E073B
+Short Circuit	002E7C9C
+Feather	002E82A0
+Marathon	002E82A2
+Haphazard Handgun	00259DCD
+sir livingstons pistol menu view cropped
+Image credit: Eurogamer/Bethesda Softworks
+Ammo item IDs in Starfield
+To find a specific ammo quickly, you can use the search bar above the table, or click the arrows to sort the name order.
+
+Here's a list of the ammo item IDs in Starfield discovered so far:
+
+Filter table
+Ammo	Item ID
+.27 Caliber ammo	002B559C
+.45 ACP ammo	002B5598
+.43 MI Array ammo	002B559A
+.50 Caliber Caseless ammo	002B5597
+.50 MI Array ammo	002B5596
+1.5kV LZR Cartridge ammo	002BAE3F
+3kV LZR Cartridge ammo	0000E8EC
+11MM Caseless ammo	002B5595
+12.5MM ST Rivet ammo	002B5594
+12G Shotgun Shell ammo	000547A1
+15X25 CLL Shotgun Shell ammo	002B4AFB
+40MM XPL ammo	002B5592
+43 Ultramag ammo	002B5599
+6.5MM CT ammo	002B5590
+6.5MM MI Array ammo	002B558F
+7.5MM Whitehot ammo	002B558E
+7.62x39MM ammo	002B558D
+7.77MM Caseless ammo	0004AD3E
+9x39MM ammo	002B559B
+Caseless Shotgun Shell ammo	002B4AFB
+Heavy Particle Fuse ammo	002B558B
+Light Particle Fuse ammo	002783C7
+starfield character looking at ringed planet from surface of a mountain on another planet
+Image credit: Eurogamer/Bethesda
+Armor item IDs in Starfield
+To find a specific armor quickly, you can use the search bar above the table, or click the arrows to sort the name order (e.g. try searching 'spacesuit' for just suits).
+
+Starting at spacesuits, then working down to helmets, then packs, here's a list of the armor item IDs in Starfield discovered so far:
+
+Filter table
+Armor	Item ID
+Incendiary Experimental Nishina Spacesuit	00065925
+Sentinel's UC Antixeno Spacesuit	0007B2B9
+Repulsing Explorer Spacesuit	0022B8F6
+Peacemaker Spacesuit	0013F97D
+Bounty Hunter Spacesuit	00228570
+Constellation Spacesuit	001E2B18
+Deep Mining Spacesuit	0005278E
+Deep Recon Spacesuit	002265AE
+Deepcore Spacesuit	0006AC00
+Deepseeker Spacesuit	0016D2C4
+Deimos Spacesuit	00026BF1
+Ecliptic Spacesuit	0022856F
+Explorer Spacesuit	002265AF
+Gran-Gran's Spacesuit	001F22BB
+Ground Crew Spacesuit	002392B5
+Mantis Spacesuit	00226299
+Mark I Spacesuit	0001754D
+Mercury Spacesuit	001D0F96
+Monster Costume	00225FC9
+Navigator Spacesuit	00067C94
+Old Earth Spacesuit	0003084E
+Pirate Assault Spacesuit	00066821
+Pirate Charger Spacesuit	00066826
+Pirate Corsair Spacesuit	00066828
+Pirate Sniper Spacesuit	0006682A
+Ranger Spacesuit	00227CA0
+Shocktroop Spacesuit	002265AD
+Space Trucker Spacesuit	0021C780
+Star Roamer Spacesuit	00004E78
+Starborn Spacesuit Astra	0012E187
+Starborn Spacesuit Avitus	001CBA52
+Starborn Spacesuit Bellum	001CBA4E
+Starborn Spacesuit Gravitas	0021C77E
+Starborn Spacesuit Locus	001CBA4A
+Starborn Spacesuit Materia	001CBA49
+Starborn Spacesuit Solis	002D7365
+Starborn Spacesuit Tempus	002D7346
+Starborn Spacesuit Tenebris	001CBA4D
+Starborn Spacesuit Venator	0021C77F
+SysDef Ace Spacesuit	002AAF44
+SysDef Assault Spacesuit	00398104
+SysDef Combat Spacesuit	0039810A
+SysDef Sec Recon Spacesuit	00398108
+SysDef Spacesuit	00398103
+Trackers Alliance Spacesuit	00166404
+UC Ace Spacesuit	00166410
+UC AntiXeno Spacesuit	00206130
+UC Combat Spacesuit	00257808
+UC Marine Spacesuit	00257805
+UC Sec Combat Spacesuit	000EF9B0
+UC Sec Recon Spacesuit	000EF9AF
+UC Sec Starlaw Spacesuit	000EF9AE
+UC Security Spacesuit	000EF9AD
+UC Startroop Spacesuit	00257809
+UC Urbanwar Spacesuit	0021A86A
+UC Vanguard Spacesuit	00248C0F
+UC Wardog Spacesuit	0025780A
+Va'Ruun Spacesuit	00227CA3
+Incendiary Experimental Nishina Spacesuit	0065925
+Sentinel's UC Antixeno Spacesuit	0007B2B9
+Repulsing Explorer Spacesuit	0022B8F6
+Peacemaker Spacesuit	0013F97D
+Monster Costume	00225FC9
+Gran-Gran's Spacesuit	001F22BC
+Reactive Experimental Nishina Helmet	0065926
+Incendiary UC AntiXeno Space Helmet	0010A25E
+Bounty Hunter Space Helmet	001C0F32
+Peacemaker Space Helmet	0013F97B
+Mark I Space Helmet	0001754F
+Gran-Gran's Space Helmet	001F22BC
+UC Armored Space Helmet	0025780B
+SysDef Armored Space Helmet	00398107
+UC Sec Spaceriot Helmet	000EF9B2
+UC Vanguard Space Helmet	00248C0E
+Operative Helmet	0016E0C3
+Armor-Plated UC AntiXeno Pack	0010A25D
+Bounty Hunter Stalk	001C0F35
+Bounty Hunter Seek	001C0F34
+Bounty Hunter Track	001C0F33
+Mark 1 Pack	0001754E
+UC Shock Power Pack	0021A86C
+UC Navy Armored Fatigues	002C6E7D
+UC Navy Duty Fatigues	003E3ACF
+UC Navy Hat	002C6E7E
+UC Navy Fatigues	002C6E7F
+UC Navy Recon Fatigues	003E3AD1
+Utility Flightsuit	00251F56
+cropped image of mantis helmet in menu
+Image credit: Eurogamer/Bethesda Softworks
+Clothing item IDs in Starfield
+To find a specific clothing item quickly, you can use the search bar above the table, or click the arrows to sort the name order (e.g. try searching 'spacesuit' for just suits).
+
+Starting with outfits, then headwera, here's a list of the clothing item IDs in Starfield discovered so far:
+
+Filter table
+Clothing	Item ID
+Ambassador Suit	003E3D51
+Argos Jacketed Jumpsuit	001C84DB
+B.Morgan's Suit	003FDBF7
+Bayu's Corpwear	003E8E7F
+Blue Labor Jumpsuit	0029E174
+Clean Suit	00235B7D
+Corpo Boardroom Suit	001A4253
+Corpo Executive Suit	00190D0B
+Corpo Power Suit	002265B0
+Corpo Salary Suit	0019F9C1
+Corpo Sleek Suit	002265B1
+Cream and Blue Dress	001F1DCE
+Dalton Fienne's Suit	00177494
+Disciples Tagwear	002262D3
+Farming Outfit	002262D5
+Fashionable Suit	00250C86
+Faye Sensavahn's Outfit	0010799A
+Filthy Physician Uniform	003EC02E
+First Mercenary Outfit	003E5D26
+First Officer Outfit	0021113E
+First Soldier Outfit	00228825
+Fishworker Splash Wear	0024EF40
+Fishworker Wet Wear	0024EF41
+Franklin Roosevelt's Outfit	0021BBF1
+Freestar Dustwear	00224FE9
+Freestar Militia Uniform	00228827
+Genavieve Monohan's Suit	00177492
+Genghis Khan's Outfit	002262D2
+Gray Labor Jumpsuit	0029E175
+Green Fashionable Suit	002619EF
+HAZMAT suit	0029AEAE
+Imogen Salzo's Suit	00177493
+Linden Calderi's Suit	00177495
+Masako Imada's Outfit	00226298
+Matteo's Outfit	00030B4B
+Medic Uniform	000028A5
+Megacorp Executive Suit	001A52D1
+Mei Devine's Outfit	002262D1
+Miner Dredbreaker Outfit	0009B72F
+Miner Hard Hat Outfit	0026D8AA
+Miner Jacketed Jumpsuit	0001D1D9
+Miner Jumpsuit	0001D1D7
+Miner Utility Outfit	0001D1E7
+Naeva's Outfit	00225FCA
+NASA Lab Uniform	000C47A0
+Navy Tan Dress	001F1DC9
+Neocity Corp Wear	002266A2
+Neon Businesswear	002266A3
+Neon Clublife Skirt	001F1DD0
+Neon Dancer Outfit	00225FCC
+Neon Nightlife Jumpsuit	003556E7
+Neon Nightlife Skirt	001F1DCF
+Neon Security Uniform	00225D9E
+Neon Socialite Skirt	00165720
+New Atlantis Security Uniform	0021BBF2
+Nightwear	00225DA0
+Noel's Outfit	00036AFC
+Patient's Clothes	002BC183
+Physician Uniform	00226297
+Prison Scrubs	002491EA
+Pryce's Suit	001BF2F8
+Ranger Deputy Uniform	0013730B
+Ranger Duelwear	0022856C
+Reliant Medical Uniform	000028A6
+Resort Wear	00003C4E
+Resort Wear	00003BF6
+Resort Wear	00003C4D
+Ryujin Lab Worker Outfit	001823CB
+Ryujin Lab Worker Suit	001823CC
+Sam Coe's Outfit	0001D1DE
+Sanctum Priest Vestment	00225D9F
+Security Flight Suit	000CC4D1
+Space Trucker Flannel (jacket)	002470D1
+Space Trucker Flannel (no jacket)	002470D2
+Space Undersuit	00165722
+Striker Streetwear	00064A2E
+Suit with Lapel Pin	00027189
+Swimsuit	00002FA4
+Syndicate Boss Suit	0011F3AD
+Syndicate Capo Suit	0011F3A8
+Syndicate Club Suit	0011F3AC
+Syndicate Pinstripes	0011F3B0
+Syndicate Thug Suit	0011F3A7
+SYSDEF Prison Scrubs	000D981C
+UC Navy Armored Fatigues	002C6E7D
+UC Navy Duty Fatigues	003E3ACF
+UC Navy Fatigues	002C6E7F
+UC Navy Recon Fatigues	003E3AD1
+Ularu's Suit	003B2A81
+Utility Flight Suit	00251F56
+Utility Flightsuit	00251F56
+Xenofresh Clean Suit	0004008C
+Yellow Labor Jumpsuit	0029E173
+Deputy Hat	002BA0E3
+Farming Hat	002262D5
+First Officer Hat	00228826
+First Soldier Helmet	0021F3F4
+Fish Worker Mask	0024EF42
+Freestar Militia Hat	0021712A
+Genghis Khan's Hat	001D8426
+Matteo Khatri's Hat	00030B4D
+Neon Dancer Headwear	000C900A
+Neon Secuirty Helmet	001F73EF
+Neuroboost Mark I	001A2507
+Neuroboost Mark II	00100517
+Neuroboost Mark III	00100518
+Neurocom Mark I	00100519
+Neurocom Mark II	0010051A
+Neurocom Mark III	0010051B
+Neurotac Mark I	0010051C
+Neurotac Mark II	0010051D
+Neurotac Mark III	0010051F
+Paxton's Officer Hat	003E5D27
+Ranger Hat	002BA0E1
+Striker Maskwear	002E18F6
+UC Navy Hat	002C6E7E
+Aid item IDs in Starfield
+To find a specific Aid item quickly, you can use the search bar above the table, or click the arrows to sort the name order.
+
+Not including food (there's a dedicated food table further down) here's a list of the Aid item IDs in Starfield discovered so far:
+
+Filter table
+Aid	Item ID
+Addichrone	0029A851
+AddiJack	001F3E85
+Alien Genetic Material	000C1F57
+Amp	0029A856
+Analgesic Poultice	0003D8B2
+Anchored Immobilizers	0003D3AD
+Antibiotic Cocktail	0003D3A9
+Antibiotic Injector	0003D3AF
+Antibiotic Paste	0003D3AE
+Antibiotic Paste	00299590
+Antibiotics	002F4436
+Aurora	002C5884
+Bandages	002F4459
+Battlestim	002A5024
+BattleUp	001F3E87
+Black Hole Heart	00122EA8
+Boosted Injector	0003D3AC
+Boudicca	0029959F
+CQB-X	0029A85E
+Dwarf Star Heart	00299599
+Emergency Kit	002A9DE8
+Frostwolf	002C5885
+Giant Heart	0029959A
+Heal Gel	0003D3AB
+Heal Paste	002F445C
+Heart+	0029CAD9
+Hippolyta	002C5883
+Hypergiant Heart	00122E9C
+Immobilizer	002F445B
+Infantry Alpha	0029A85C
+Infantry Alpha	0029A860
+Infused Bandages	0003D3B0
+Junk Flush	00143CB1
+Med Pack	0000ABF9
+O2 Shot	001F3E84
+Panopticon	002A5025
+Paramour	002C5881
+Penicillin X	0029A84F
+Pick-Me-Up	00255DCB
+Recon Stim	0029A855
+Red Trench	002C587F
+RedAMP	001F3E86
+Repairing Immobilizer	00224D61
+Ship Spare Part	0003FB19
+S.T.E.V.E.	00139E4B
+Snake Oil	0029A850
+Squall	002A9DE7
+Subgiant Heart	00122EB1
+Synapse Alpha	002C5880
+Trauma Pack	0029A847
+Unprocessed Aurora	000C8721
+Whiteout	00143CB2
+Zipper Bandages	0003D3AA
+starfield crimson fleet uc sucks sign
+Image credit: Bethesda
+Weapon Mod item IDs in Starfield
+To find a specific weapon mod quickly, you can use the search bar above the table, or click the arrows to sort the name order.
+
+Here's a list of the weapon mod item IDs in Starfield discovered so far:
+
+Filter table
+Weapon Mod	Item ID
+Calibrated (weapon quality level 2)	0028F442
+Refined(weapon quality level 3)	0028F443
+Advanced(weapon quality level 4)	0028F444
+Exterminator	0015DD18
+Furious	000EA117
+Instigating	000F2013
+Disassembler	001625EB
+Explosive	000FA8D6
+Shattering	000F4557
+Extended Magazine	000FFA3B
+Anti Personnel	000FF441
+Bashing	000FEA07
+Berserker	000F437E
+Cornered	000F428E
+Oxygenated	000FAEAB
+SpaceAdept	000F7321
+Corrosive	0008AB47
+Crippling	000F2E39
+Hitman	00122F1C
+Incendiary	00070728
+Lacerate	000FEA49
+MedTheft	000FFA3C
+Poison	00319AEC
+Radioactive	000EA138
+Rapid	000FEA04
+Staggering	000E8D64
+Concussive	000FBD3C
+Despondent	000FC884
+Elemental	0311C0C5
+Frenzy	000FC8A4
+OneInchPunch	000F4CF0
+Skipshot	0031C0C4
+Tesla	0031C0C6
+Titanium Build	000FFA3D
+first person view of shooting a robot with a bridger gun
+Image credit: Eurogamer/Bethesda Softworks
+Armor Mod item IDs in Starfield
+To find a specific armor mod quickly, you can use the search bar above the table, or click the arrows to sort the name order.
+
+Here's a list of the armor mod item IDs in Starfield discovered so far:
+
+Filter table
+Armor Mod	Item ID
+Calibrated (armor level 2)	0011E2BC
+Refined (armor level 3)	0011E2BA
+Advanced (armor level 4)	0011E2B9
+Superior (Armor level 5)	0003AF7D
+Sensor Chip	002C43DB
+Sentinel	000BE540
+Headhunter	002C43DC
+Armor Plated	002EDE59
+Mechanized	000BE542
+Assisted Carry	002EDE4F
+Incindiary 2	00002983
+Mirrored	00059AE8
+Repulsing	0006029D
+O2 Boosted	000690B0
+Combat Veteran	001336BE
+Beast Hunter	001336BD
+Chameleon	001336C1
+Ablative	0013369C
+Incidinary 2	00002983
+Sturdy	00133699
+O2 Filter	000690AE
+Anti-Ballistic	0013369E
+Fastened	002EDE4E
+Auto Medic	000C9A43
+Galvanized	000710F7
+Incendiary 1	0007D728
+Liquid Cooled	000710F6
+Resource Hauler	00060293
+Analyzer	000690AF
+Leadlined	000710F5
+Hacker	002C43DA
+Weapon Holster	00060295
+Acrobat	000710FD
+Antiseptic	000710FA
+Staggering	000E8D64
+A spaceship on a planet against a backdrop of outerspace in a piece of Starfield concept art.
+Image credit: Bethesda
+Inorganic Resource item IDs in Starfield
+To find a specific inorganic resource quickly, you can use the search bar above the table, or click the arrows to sort the name order.
+
+Here's a list of the inorganic resource item IDs in Starfield discovered so far:
+
+Filter table
+Inorganic Resource	Item ID
+Aldumite	00005DEC
+Aluminium	0000557D
+Alkanes	00005570
+Antimony	0000557B
+Antimony	0000557B
+Aqueous Hematite	0000557C
+Argon	00005588
+Benzene	00005585
+Beryllium	000057D9
+Caelumite	000788D6
+Caesium	000057DF
+Carboxylic Acids	00005586
+Carboxylic Acids	00005586
+Chlorine	0000557C
+Chlorosilanes	0000557E
+Cobalt	00005575
+Copper	00005576
+Dysprosium	00005569
+Europium	000057E1
+Fluorine	00005577
+Gold	00005579
+Helium-3	0000558E
+Indicite	0004BA37
+Ionic Liquids	0000557A
+Iridium	0000558A
+Iron	0000556E
+Lead	00005568
+Lithium	0000557F
+Mercury	0027C4A1
+Neodymium	00005580
+Neon	00005587
+Nickel	00005572
+Palladium	00005574
+Platinum	00005573
+Plutonium	0000558C
+Rothicite	000028DF
+Silver	0000556A
+Tantalum	0000556F
+Tasine	00005DED
+Tetrafluorides	00005578
+Titanium	0000556D
+Tungsten	0000556B
+Uranium	00005589
+Vanadium	0000558B
+Veryl	00005DEE
+Vytinium	00005DEF
+Water	00005591
+Xenon	000057DD
+Ytterbium	00005571
+starfield frontier ship landing on luna
+Image credit: Eurogamer/Bethesda
+Organic Resource item IDs in Starfield
+To find a specific organic resource quickly, you can use the search bar above the table, or click the arrows to sort the name order.
+
+Here's a list of the Organic resource item IDs in Starfield discovered so far:
+
+Filter table
+Organic Resource	Item ID
+Adhesive	000055B1
+Amino Acids	000055CD
+Analgesic	000055A9
+Antimicrobial	000055AB
+Aromatic	000055B8
+Biosuppressant	000055B2
+Cosmetic	000055A8
+Fiber	000055AF
+Gastronomic Delight	000055B3
+High Tenside Spidroin	000055AA
+Hallucinogen	0029F405
+Hypercatalyst	0029F40D
+Immunostimulant	0000559E
+Lubricant	000055BA
+Luxury Textile	0000559B
+Membrane	000055B0
+Metabolic Agent	0029F3FC
+Neurologic	000055AE
+Nutrient	000777FD
+Ornamental Material	000055A7
+Pigment	0029F400
+Quark-Degenerate Tissues	00122EB8
+Polymer	000055A6
+Sealant	000055CC
+Sedative	000055AD
+Solvent	000055CE
+Stimulant	00202F5A
+Structural Material	000055B9
+Spice	000055AC
+Toxin	000055CB
+Starfield player pilot in the cockpit of their ship.
+Image credit: Bethesda
+Manufactured Resource item IDs in Starfield
+To find a specific manufactured resource quickly, you can use the search bar above the table, or click the arrows to sort the name order.
+
+Here's a list of the manufactured resource item IDs in Starfield discovered so far:
+
+Filter table
+Manufactured Resource	Item ID
+Adaptive Frame	00246B6A
+Austenitic Manifolds	002155C2
+Comm Relay	00246B64
+Control Rod	00246B7B
+Drilling Rig	0020A02F
+Indicite Wafer	00203EB4
+Isocentered Magnet	00246B77
+Isotopic Coolant	00246B76
+Mag Pressure Tank	00246B70
+Microsecond Regulator	00246B5F
+Molecular Sieve	00246B75
+Monopropellant	00246B74
+Nuclear Fuel Rod	00246B79
+Paramagon Conductor	00246B73
+Polytextile	00246B72
+Positron Battery	00246B71
+Power Circuit	00246B5C
+Reactive Gauge	00246B6F
+Rothicite Magnet	00203EB2
+Semimetal Wafer	00246B6D
+Sterile Nanotubes	00246B6C
+Structural	000055B9
+Substrate Molecule Sieve	00202782
+Supercooled Magnet	00246B69
+Tasine Superconductor	00203EAF
+Tau Grade Rheostat	00246B68
+Vytinium Fuel Rod	00203EB3
+Zero-G Gimbal	00246B66
+Zero Wire	00246B65
+cutscene of ship grav jumping
+Image credit: Eurogamer/Starfield
+Ship item IDs in Starfield
+To find a specific manufactured resource quickly, you can use the search bar above the table, or click the arrows to sort the name order.
+
+Here's a list of the Ship item IDs in Starfield discovered so far:
+
+Filter table
+Ship	Item ID
+Asphalt CB	003A2E59
+Asphalt CB II	003A2E57
+Asphalt CB III	003A2E55
+Autobahn	0038D65C
+Autobahn II	0038D65A
+Autobahn III	0038D658
+Babylon	003A2DFF
+Babylon II	003A2DFD
+Big Rig	003E60E3
+Big Rig II	003E60E5
+Blackhawk	0002C24B
+Blackhawk II	0002C24F
+Blackhawk III	0002C251
+Caravan	003A2E29
+Caravan II	003A2E27
+Caravan III	003A2E25
+Carry ALL	003A2E53
+Carry ALL II	003A2E51
+Carry ALL III	003A2E4F
+Civshuttle	0038D656
+Civshuttle II	0038D654
+Civshuttle III	0038D652
+Conqueror	0002C2C2
+Conqueror II	0002C2CA
+Conqueror III	0002C302
+Crossbow	003A2E17
+Crossbow I	003A2E15
+Crossbow III	003A2E13
+Discovery	002E7461
+Dolphin	000B196D
+Dolphin II	0002C3C2
+Dragonfire	003A2E11
+Dragonfire II	003A2E0F
+Dullahan	003A2E0B
+Dullahan II	003A2E09
+Dullahan III	003A2E07
+Econohaul	000D5578
+Econohaul II	003E60E9
+Endeavor	001BE87D
+Endeavor II	001BE87F
+Endeavor III	001BE881
+Falcon	000B196B
+Falcon II	0002C6D2
+Falcon III	0002C711
+Frontier	FF00EB29
+Galileo	FF0047B5
+Galileo II	002EF772
+Galileo III	0004239D
+Generic Citizen F02	0004239F
+Generic Citizen F03	000CA4F7
+Generic Citizen F05	000CA4F9
+Generic Citizen F10	002EB24D
+Generic Citizen FEven Toned Template	002EB24F
+Generic Citizen FRough	000CA4F3
+Generic Citizen M01	000CA4F5
+Generic Citizen M06	000CA4FF
+Generic Citizen M07	000CA501
+Generic Citizen M08	002EB251
+Generic Citizen MEven Toned	002EB253
+Generic Citizen MRough	000CA4FB
+Hammerhead	000CA4FD
+Hammerhead II	000B1969
+Helix	0002C723
+Helix I	001DE40C
+Helix II	000F509F
+Helix I	000F50C0
+Highlander	000F50A0
+Highlander II	003A2DF9
+Highlander III	003A2DF7
+Homesteader FEvenToned Template	003A2DF5
+Homesteader M06	00027A80
+Homesteader M08	00027A7A
+Kfir	00027A79
+Kfir II	000D059D
+Kfir III	00042391
+Kfir IV	00042393
+Lil Muv	00042395
+Lil Muv II	000D2D30
+Mako	003E60DF
+Mako II	002EF76E
+Mako III	000423A7
+Mustang	000423A9
+Mustang II	002EF774
+Mustang III	00042397
+Naginata	00042399
+Naginata II	003A2E41
+Naginata III	003A2E3F
+UC Narcissus	003A2E3D
+Freestar Narcissus	0004237B
+Narcissus	000D059B
+Narcissus (Stroud)	0004237D
+Narcissus II	000423A1
+Narcissus II (Stroud)	000B1986
+Nimitz	0003CFAE
+Nimitz II	0003CFAC
+Nimitz III	000D05A3
+PCH	0002C247
+PCH II	0002C215
+Pelican	0002C216
+Pelican II	000D05A6
+Pik Up	003E60E1
+Pik Up II	0004238F
+Pik Up III	000D0597
+Privateer	000B197B
+Privateer II	0002C33A
+Privateer III	003A2E3B
+Pterosaur	003A2E39
+Pterosaur II	003A2E37
+Pterosaur III	00042372
+Rambler	00042374
+Rambler II	000D1861
+Ranger	0002C253
+Ranger II	0002C263
+Ranger III	003A2E79
+Raptor III	003A2DF3
+Renegade	0038D666
+Renegade II	0038D664
+Renegade III	003A2E6B
+Responder	003A2E69
+Responder II	000D0593
+Roanoke	0002C3A8
+Roanoke II	0002C3AC
+Roanoke III	001DE40A
+Scorpius	000F6DD6
+Scorpius II	000FEC32
+Scorpius III	000FEC33
+Scorpius IV	001B21C3
+Settler Carry-All III	001B21BD
+Settler Econohaul	001B21BF
+Settler Econohaul II	001B21C1
+Settler Lil Muv II	001B21B9
+Settler MULE	001B21BB
+Settler MULE III	001B21C7
+Settler Pelican II	001B21C8
+Settler Slipstream	001B21C5
+Settler Space OX	001B21CA
+Settler Venture II	003A2E23
+Slipstream	003A2E21
+Slipstream II	003A2E4D
+Space OX	003A2E4B
+Space OX II	003A2E49
+Space OX III	00322C19
+Spacer Coyote	0033CA57
+Spacer Coyote II	0033CA59
+Spacer Coyote III	000B1984
+Spacer F01 template	000B1983
+Spacer F02	000B1982
+Spacer F03	00322C1F
+Spacer Hyena	0033CA63
+Spacer Hyena II	0033CA65
+Spacer Hyena III	0033CA65
+Spacer Hyena III	00322C1B
+Spacer Jackal	0033CA5B
+Spacer Jackal II	000B1980
+Spacer M01	000B197F
+Spacer M02	000B197E
+Spacer M03	000B197D
+Spacer M04	00322C13
+Spacer Raccoon	0033CA4B
+Spacer Raccoon II	0033CA4D
+Spacer Raccoon III	00322C15
+Spacer Raven	0033CA4F
+Spacer Raven II	0033CA51
+Spacer Raven III	00322C17
+Spacer Scarab	0033CA53
+SSNN Sunsail	00315875
+SSNN Sunsail II	00099ED4
+Star Parcel F01 template	00099ED2
+Star Parcel F02	0003CFAA
+Star Parcel Kirov IV	00099EDO
+Star Parcel M01	00099ECF
+Star Parcel M02	00315877
+Star Parcel Pikup	0031587B
+Star Parcel Pikup II	0031587D
+Star Parcel Pikup III	0002C269
+Star Parcel Spacetruk	0002C26B
+Star Parcel Spacetruk II	0002C2C0
+Star Parcel Spacetruk III	0003CFA8
+Star Parcel Star Semi	0003CFB2
+Star Semi	0003732A
+Starborn Guardian	0003734A
+Starborn Guardian II	00037360
+Starborn Guardian III	00363CA5
+Starborn Guardian IV	00363CA7
+Starborn Guardian V	00363CA9
+Starborn Guardian VI	003A2E35
+Starhawk	003A2E33
+Starhawk II	003A2E2F
+Starhawk III	003A2E03
+Stormrider II	003A2E01
+Stormrider III	003A2E1D
+Sunsail	003A2E1B
+Sunsail II	003A2E77
+Thresher	003A2E75
+Thresher II	003A2E5F
+Transpo	003A2E5D
+Transpo II	003A2E5B
+Transpo III	002EF770
+Trebuchet	000423A3
+Trebuchet II	000423A5
+Trebuchet III	FF00AAF0
+Va'ruun Dirge	00323450
+Va'ruun Dirge II	003157BC
+Va'ruun Dirge III	003157C1
+Va'ruun Eulogy	00323454
+Va'ruun Eulogy II	003157FC
+Va'ruun Eulogy III	00315805
+Va'ruun F01 template	000B19CB
+Va'ruun F02	0003B2A3
+Va'ruun Hymn	00323452
+Va'ruun Hymn II	003157CD
+Va'ruun Hymn III	003157ED
+Va'ruun M01	000B19CD
+Va'ruun M02	0003B2A5
+Va'ruun Prophecy	0032345A
+Va'ruun Prophecy II	00315842
+Va'ruun Prophecy III	00315852
+Va'ruun Revelation	0032345C
+Va'ruun Revelation II	00315854
+Va'ruun Vigil	00323458
+Va'ruun Vigil II	00315817
+Va'ruun Vigil III	0031581C
+Venture	000D0595
+Venture II	0002C3BD
+Venture III	0002C3BF
+Vindicator	003A2E05
+Vindicator	000D5575
+Vindicator II	0003CFA4
+Vindicator III	0003CFA2
+Vista	0038D650
+Vista II	0038D64E
+Vista III	0038D64C
+Voyager	0038D662
+Voyager II	0038D660
+Voyager III	0038D65E
+Wagontrain	003A2E47
+Wagontrain II	003A2E45
+Wagontrain III	003A2E43
+Warhammer	003A2E2F
+Warhammer II	003A2E2D
+Warhammer III	003A2E2B
+Watchdog	000D1864
+Watchdog II	000B198A
+Watchdog IV	00281F69
+Wendigo	003A2E71
+Wendigo II	003A2E6F
+Zumwalt	0014A219
+Zumwalt II	0014A21B
+Zumwalt III	0014A21D
+Food item IDs in Starfield
+To find a specific food quickly, you can use the search bar above the table, or click the arrows to sort the name order.
+
+Here's a list of the food item IDs in Starfield discovered so far:
+
+Filter table
+Food	Item Id
+Alien Broth	0029B046
+Alien Energy Drink	0029B047
+Alien Jerky	002C7C0C
+Alien Kebabs	0029B061
+Alien Liquor	0029B04F
+Alien Pie	0029B063
+Alien Sandwich	0029B062
+Alien Scramble	0029B065
+Alien Stew	0029B066
+Alien Stir Fry	0029B064
+Alien Tea	0029B052
+Alien Tonic	0029B048
+Astral Lounge Special Sangria	00249C2C
+Astral Sliders	00249C31
+Baguette	002543B9
+Barbacoa Wrap	0029B054
+Bart's Chili	00249C46
+Bayu Private Reserve	00249C2B
+Beer Brat Platter	00249C22
+Beertini	00249C0D
+Bitten Sandwich	002543B7
+Boba Alien Tea	0029B050
+Bog's Grog	002C7210
+Boom Pop! Black Licorice	002C71F8
+Boom Pop! Cherry	0029A863
+Boom Pop! Cola	002C71F5
+Boom Pop! Dynamite	0029B040
+Boom Pop! Orange	002C71F6
+Boom Pop! Reactor	003038FE
+Boom Pop! Rhubarb	002C71F7
+Boom Pop! Root Beer	002C71F4
+Bourbon	002C7211
+Bread	002C723E
+Bullet Coffee	0029B04B
+Butter	002C7C0A
+Cabernet Chunkignon	00249C51
+Café et thé Prime	0003D3A8
+CAN-uck! Bacon	002C722D
+CAN-uck! Double Double	00249C49
+CAN-uck! Edmontonian	00249C4A
+CAN-uck! Haligonian	00249C4D
+CAN-uck! Ham Boys	00249C4C
+CAN-uck! Maple Cola	00249C48
+CAN-uck! Pancakes Plus	002C7230
+CAN-uck! Pilsner	002C720D
+CAN-uck! Poutine	002C7231
+CAN-uck! Shepherd's Pie	00249C4B
+CAN-uck! Tourtiere	002C7232
+Carrot	00092B98
+Celery	00092B99
+Chai Latte	0029B03E
+Chandra Cabernet Sauvignon	002C7202
+Chandra Chardonnay	002C7204
+Chandra Malbec	002C7203
+Chandra Merlot	002C7208
+Chandra Pinot Noir	002C7206
+Chandra Port	002C7209
+Chandra Riesling	002C7205
+Chandra Sauvignon Blanc	002C7207
+Chapaguri	002C7C0D
+Cheddar Snack Crackers	002C7236
+Cheese	001FC9C1
+Chicken Marsala	0029B05C
+Chicken Tikka	0029B05A
+Chimera	00249C28
+Chocolate Labs	002C723B
+Chunks Apple	00206770
+Chunks Apple - Packaged	00206771
+Chunks Beef	00206763
+Chunks Beef - Packaged	0020676F
+Chunks Cake	0020676D
+Chunks Cake - Packaged	0020676E
+Chunks Cheesesteak	0020676B
+Chunks Cheesesteak - Packaged	0020676C
+Chunks Chick - Packaged	0020676A
+Chunks Chicken	00206764
+Chunks Choco	00206769
+Chunks Choco - Packaged	00206768
+Chunks Cola	00249C52
+Chunks Cola - Packaged	00206767
+Chunks Egg	00206765
+Chunks Egg - Packaged	001E29A8
+Chunks Pie	0020675F
+Chunks Pie - Packaged	00206760
+Chunks Potato	00206761
+Chunks Potato - Packaged	00206762
+Chunks Wine	0020675D
+Chunks Wine - Packaged	0020675E
+Codos Crater	00249C1A
+Coffee Bag	0025B0FB
+Colonel's Choice	0029B04E
+Container of Cereal	00287D76
+Crawler Bisque	00249C32
+Creature Jam	0029B05E
+Crispy Alien Nuggets	0029B060
+Dal Makhani	0029B056
+Dark Lager	00139E45
+Dawn's Roost Strip	00249C30
+Departure Time	00249C0F
+Disastrous Shipwreck	0029B042
+Distilled Water	0029B053
+Doro Wat	0029B059
+Drink Pack: Beer	002C7217
+Drink Pack: Milk	002C7216
+Drink Pack: Orange Juice	002C721A
+Drink Pack: Red Wine	002C7215
+Drink Pack: Vodka	0029B00E
+Drink Pack: Water	002C7218
+Drink Pack: Whiskey	002C7219
+Drink Pack: White Wine	002C7214
+Erdebrau Dark Can	001FF69C
+Erdebrau Lager Can	001FF69E
+Erdebrau Pils Can	001FF69A
+Erdebraw Light Can	001FF6A0
+Fried Pickles	00249C20
+Fullfood Spiced Worms	000304CE
+Fully-Loaded Bloody Mary	0029B03F
+Galaxy Lo Mein	00122E94
+Gazpacho	00249C33
+Grandpa's Meatloaf	00165073
+Granola Mix	002C7235
+Grapes	00092B9A
+Grilled Cheese Sandwich	0029B05D
+Ham and Cheese Sandwich	002C722B
+High Gravity Reserve	0037CEF7
+Instant Oatmeal	002C7234
+Jake's Stout	00249C0E
+Jemison Wellington	00249C35
+Kefir	002C7213
+Kiffles	00249C14
+Latkes	002382E9
+Lemon	004B1D8
+Lettuce	00092B9B
+Lime	0004B1D7
+Liver Pate	00249C36
+Lounge Special	00249C2D
+Lumberjack Julep	0029B04D
+Marshmallow Treat Cereal	002C7238
+Meal Kit	00191214
+Meal Pack - Cereal	002C7221
+Meal Pack - Chicken	002C721C
+Meal Pack - Ramen	002C721F
+Meal Pack - Shrimp	002C721D
+Meal Pack - Sushi	002C7220
+Meal Pack - Tofu	002C721E
+Meal Pack Eggs	002C7222
+Meal Packs - Eggs	002C7222
+Meal Tray	00240220
+Meatloaf	0029B05B
+Melon Caviar	00249C2E
+Midnight Delight	002C722C
+Midnight Special	00249C44
+Milk	0019121F
+Miso Soup	001EE5C5
+Miso Soup Minislurp	001EE5C4
+Miso Soup Multipack	001EE5C7
+Mochi	001EDDDF
+Mochi Minibite	001EDDDE
+Mochi Multipack	001EDDE0
+Nebula Wat	00122E96
+New Arrival	00249C11
+Onion	00003A1F
+Opened Superfood Paste Kit	001DFCB5
+Orange	00003A22
+Orange Juice of Transcendence	002DFB0B
+Pale Ale	00139E44
+Panache	00249C38
+Pappardelle Bolognese	0029B057
+Patty Melt	00249C21
+Peach	00003A23
+Pear	00003A21
+Pepper Steak Sandwich	001944E4
+Pierogis	00249C13
+Pit Chops	00249C46
+Pizza Square	002C7233
+Plum	00003A27
+Potato	00003A26
+Poultry	0029B039
+Raisin Bran Cereal	002C7237
+Ramen	001EE441
+Ramen Minibite	001EE442
+Ramen Multipack	001EE440
+Red Ale	00139E43
+Red Harvest Amber Ale	0001BBAB
+Red Harvest Double Malt Whiskey	0003614B
+Red Harvest Lentils	002C7241
+Red Harvest Milk Stout	0001BBAC
+Red Harvest Naan	002C723F
+Red Harvest Pale Ale	0001BBAA
+Red Harvest Rice	0029B013
+Red Harvest Rye	002C723C
+Red Harvest Single Malt Whiskey	0003614C
+Red Harvest Spaghetti	002C7240
+Red Harvest Wheat	002C723D
+Red Harvest White	002C723E
+Red Harvest White Bread	002C723E
+Red Meat	0029B03B
+Ruben	0029B055
+Runaway Whiskey	0016EC2D
+Sandwich	002543B7
+Seaweed Minibite	002C724D
+Seaweed Snacks Multipack	0030283B
+Seaweed Snacks	0030283C
+Ships O' the Line Cereal	002C7239
+Smoked Salmon Filet	0029A860
+Snack Pack - Apple Bites	002C7223
+Snack Pack - Choco Bites	002C7225
+Snack Pack - Gummy Bugs	002C7226
+Snack Pack - Protein Bar	002C7224
+Soba	001EDDE5
+Soba Minibite	001EDDE4
+Soba Multipack	001EDDE6
+Solomons Reserve	00249C1B
+Spaghetti Carbonara	0029B958
+Sparkling Water	000304CC
+Sparkling Wine	001DFCB4
+Star Cluster Marsala	00122E95
+Stellar Kebabs	00122E98
+Sunray Tonic	0029B04C
+Superfood Paste Kit	001DFCB2
+Superfood Paste Set	001DFCB3
+Supermassive Black Heart	0029959D
+Sushi Rolls	001DFCAA
+Sushi Rolls Minibite	001DFCAB
+Sushi Rolls Multipack	001DFCAC
+Sweet Rolls	00137524
+Synthameat Chicken	002C7242
+Synthameat Ham	002C7246
+Synthameat Hamburger	002C7243
+Synthameat Multi	000304D0
+Synthameat Steak	002C7244
+Synthameat Turkey	0029A861
+Synthameat Veal	002C7245
+Ta'Ameya Pita	00249C15
+TerraBrew Cappuccino	00249C4E
+TerraBrew Classic	00249C50
+TerraBrew Cortado	003E3407
+TerraBrew Espresso	0029A894
+TerraBrew Latte	00249C4F
+TerraBrew Macchiato	003E3408
+The Deep	00249C3C
+The Rack	001F36F2
+The Strip	00249C3D
+The Top Shelf	00249C3A
+Toast	001DFCAE
+Tomato	00092B96
+Tranquilitea Breakfast	0010FA0A
+Tranquilitea Chamomile	0009F549
+Tranquilitea Classic	00002449
+Tranquilitea Dynastic	0010FA08
+Tranquilitea Earl Gray	0010FA09
+Tranquilitea Lemon	0010FA0C
+Tranquilitea Lotus	0010FA0F
+Tranquilitea Sleepy Pack	003B7115
+Tranquilitea Sunray	003B7117
+Trawl	00249C3F
+Trilo Bites	00249C37
+UC Battlemeal	0029A893
+UC Battlemeal Multipack	0030283E
+Udon	001EDF0F
+Udon Minibite	001EDF10
+Udon Multipack	001EDF11
+Veggie Grinder	00249C1F
+Velocity Blue	003BF793
+Velocity Green	003BF792
+Velocity Orange	00249C26
+Velocity Red	00249C27
+Velocity Violet	00249C25
+Velocity Yellow	001EBE9E
+Very Heavy Water	0029B041
+Viewport Original	00240C10
+Water	00005591
+Watermelon	00092B97
+Xenofresh Paella	00249C42
+Xenofresh Ramen	002C721F
+Xenowurst	0029B05F
+Xenoyaki	00249C40
+Yellow Giant Splash	0029B051
+Yogurt	002C7C09
+Yuko's Coffee	0014098A
+sandwiches overflowing on a table
+Image credit: Eurogamer/Bethesda Softworks
+Misc item IDs in Starfield
+Here's a list of the misc item IDs in Starfield discovered so far:
+
+Filter table
+Starfield Item	Item ID
+Credits	0000000F
+Digipicks	0000000A
+Soccer balls	00235109
+Yoga balls	002FB1F6
+Portable CD Player	0005B4B5
+Antique Computer	00198EA1
+Antique Earth Video Tape	00198EA4
+Push Broom	0020AA57
+Hope these item IDs help you in your galactic travels!
